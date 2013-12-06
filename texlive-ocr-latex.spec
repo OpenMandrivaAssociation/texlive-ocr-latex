@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-ocr-latex
 Version:	20070311
-Release:	2
+Release:	3
 Summary:	LaTeX support for ocr fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ocr-latex
