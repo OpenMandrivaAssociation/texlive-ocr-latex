@@ -1,6 +1,6 @@
 Name:		texlive-ocr-latex
 Version:	15878
-Release:	1
+Release:	2
 Summary:	LaTeX support for ocr fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ocr-latex
